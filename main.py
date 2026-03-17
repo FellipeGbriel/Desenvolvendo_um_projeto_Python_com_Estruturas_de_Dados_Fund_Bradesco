@@ -87,10 +87,6 @@ class Main:
             self.view_command()
 
 
-# -------------------------
-# Inicialização
-# -------------------------
-
 if __name__ == "__main__":
     window = Tk()
     app = Main(window)
